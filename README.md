@@ -1,2 +1,2 @@
-# Inteligencia-Artificial_2026
-Repositório criado com o intuito de armazenar atividades da matéria de IA, do curso de ESOFT
+Entregas de Carlos Eduardo Souza Favarão 23034356-2 e Heloísa Tognólli Scarante 23211463-2
+
